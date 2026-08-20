@@ -9,7 +9,7 @@ redirect_from:
 
 I am an undergraduate student at [The Hong Kong University of Science and Technology](https://www.hkust.edu.hk/), Class of 2027. I am fortunate to be advised by [Prof. Yi R. Fung](https://mayrfung.github.io/), and mentored by her PhD student [Xinyu Geng](https://ornamentt.github.io/), working on problems at the intersection of large language model agents, tool use, and evaluation.
 
-Publications
+<h2 id="publications">Publications</h2>
 ======
 <div style="margin-bottom: 20px;">
   <a href="https://arxiv.org/abs/2604.04017" style="color: #3b5bdb; font-weight: 700; font-size: 1.05em; text-decoration: none;">GeoBrowse: A Geolocation Benchmark for Agentic Tool Use with Expert-Annotated Reasoning Traces.</a>
@@ -18,7 +18,7 @@ Publications
   Xinyu Geng\*, <strong>Yanjing Xiao\*</strong>, Yuyang Zhang\*, Hanwen Wang, Xinyan Liu, Rui Min, Tianqing Fang, Yi R. Fung
 </div>
 
-Teaching
+<h2 id="teaching">Teaching</h2>
 ======
 - Undergraduate Teaching Assistant (UGTA), COMP1021, Fall 2026, HKUST
 
