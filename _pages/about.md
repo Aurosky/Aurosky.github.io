@@ -68,9 +68,9 @@ I am an undergraduate student at [The Hong Kong University of Science and Techno
 
 <div class="exp-item">
   <div class="exp-main">
-    <span class="exp-inst">The Hong Kong University of Science and Technology</span> — <span class="exp-detail">B.Eng. in Computer Science (COSC) & Electronic Engineering (ELEC), Double Major</span>
+    <span class="exp-inst">The Hong Kong University of Science and Technology</span> — <span class="exp-detail">B.Sc. in Computer Science (COSC) & Electronic Engineering (ELEC)</span>
   </div>
-  <div class="exp-date">Class of 2027 · Hong Kong, China</div>
+  <div class="exp-date">Class of 2027 · HKSAR</div>
 </div>
 
 <div class="exp-item">
@@ -93,14 +93,14 @@ I am an undergraduate student at [The Hong Kong University of Science and Techno
   <div class="exp-main">
     <span class="exp-inst">Chinese Folk Art Society, HKUST</span> — <span class="exp-detail">Print Publicity</span>
   </div>
-  <div class="exp-date">Feb 2025 – Feb 2026 · Hong Kong, China</div>
+  <div class="exp-date">Feb 2025 – Feb 2026 · HKSAR</div>
 </div>
 
 <div class="exp-item">
   <div class="exp-main">
     <span class="exp-inst">COMP&CPEG PMP Program, HKUST</span> — <span class="exp-detail">Mentor</span>
   </div>
-  <div class="exp-date">Sep 2025 – Present · Hong Kong, China</div>
+  <div class="exp-date">Sep 2025 – Present · HKSAR</div>
 </div>
 
 <h2 id="contact" class="section-title">Contact</h2>
