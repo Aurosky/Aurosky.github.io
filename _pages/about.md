@@ -26,10 +26,10 @@ Education
 
 Publications
 ======
-- **GeoBrowse: A Geolocation Benchmark for Agentic Tool Use with Expert-Annotated Reasoning Traces**
-  Xinyu Geng\*, **Yanjing Xiao\***, Yuyang Zhang, Hanwen Wang, Xinyan Liu, Rui Min, Tianqing Fang, Yi R. Fung
-  *ECCV 2026* &nbsp;·&nbsp; arXiv:2604.04017 &nbsp;[[paper]](https://arxiv.org/abs/2604.04017)
-  <br><small>\* Equal contribution</small>
+- **GeoBrowse: A Geolocation Benchmark for Agentic Tool Use with Expert-Annotated Reasoning Traces**<br>
+  Xinyu Geng\*, **Yanjing Xiao\***, Yuyang Zhang\*, Hanwen Wang, Xinyan Liu, Rui Min, Tianqing Fang, Yi R. Fung<br>
+  *ECCV 2026* &nbsp;·&nbsp; arXiv:2604.04017 &nbsp;[[paper]](https://arxiv.org/abs/2604.04017)<br>
+  <small>\* Equal contribution</small>
 
   We introduce GeoBrowse, a geolocation benchmark combining visual reasoning with knowledge-intensive multi-hop queries, along with GATE, an agentic workflow with think-with-image and knowledge-intensive tools, and expert-annotated stepwise reasoning traces.
 
