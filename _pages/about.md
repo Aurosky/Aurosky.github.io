@@ -15,14 +15,14 @@ Education
   B.Eng. in Computer Science (COSC) & Electronic Engineering (ELEC), Double Major
   Class of 2027
 
-- **University of Vienna**, Austria
-  Exchange Program
-  Jul. 2025 - Aug. 2025
-  Coursework: German A1
+- **University of Vienna**, Austria<br>
+  Exchange Program<br>
+  Jul. 2025 - Aug. 2025<br>
+  Coursework: German A1<br>
 
-- **National University of Singapore**, Singapore
-  Exchange Program
-  Jan. 2026 - May. 2026
+- **National University of Singapore**, Singapore<br>
+  Exchange Program<br>
+  Jan. 2026 - May. 2026<br>
 
 Publications
 ======
@@ -45,12 +45,12 @@ Awards
 
 Extracurricular Activities
 ======
-- **Chinese Folk Art Society - HKUST**, Hong Kong
-  Print Publicity
+- **Chinese Folk Art Society - HKUST**, Hong Kong<br>
+  Print Publicity<br>
   Feb. 2025 - Feb. 2026
 
-- **COMP&CPEG PMP Program - HKUST**, Hong Kong
-  Mentor
+- **COMP&CPEG PMP Program - HKUST**, Hong Kong<br>
+  Mentor<br>
   Sep. 2025 - Present
 
 Contact
