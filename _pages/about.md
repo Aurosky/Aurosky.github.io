@@ -18,25 +18,39 @@ redirect_from:
 .exp-item {
   display: flex;
   justify-content: space-between;
-  align-items: baseline;
-  margin-bottom: 10px;
+  align-items: flex-start;
+  margin-bottom: 16px;
   flex-wrap: wrap;
 }
-.exp-main {
+.exp-left {
   flex: 1;
   min-width: 260px;
 }
+.exp-right {
+  text-align: right;
+  margin-left: 16px;
+}
 .exp-inst {
   font-weight: 700;
+  display: block;
 }
 .exp-detail {
   color: #555;
+  display: block;
+  margin-top: 2px;
 }
 .exp-date {
   color: #888;
   font-size: 0.9em;
   white-space: nowrap;
-  margin-left: 16px;
+  display: block;
+}
+.exp-loc {
+  color: #aaa;
+  font-size: 0.85em;
+  white-space: nowrap;
+  display: block;
+  margin-top: 2px;
 }
 </style>
 
@@ -67,42 +81,61 @@ I am an undergraduate student at [The Hong Kong University of Science and Techno
 ### Education
 
 <div class="exp-item">
-  <div class="exp-main">
-    <span class="exp-inst">The Hong Kong University of Science and Technology</span> — <span class="exp-detail">B.Sc. in Computer Science (COSC) & Electronic Engineering (ELEC)</span>
+  <div class="exp-left">
+    <span class="exp-inst">The Hong Kong University of Science and Technology</span>
+    <span class="exp-detail">B.Eng. in Computer Science (COSC) & Electronic Engineering (ELEC), Double Major</span>
   </div>
-  <div class="exp-date">Class of 2027 · HKSAR</div>
+  <div class="exp-right">
+    <span class="exp-date">Class of 2027</span>
+    <span class="exp-loc">Hong Kong, China</span>
+  </div>
 </div>
 
 <div class="exp-item">
-  <div class="exp-main">
-    <span class="exp-inst">University of Vienna</span> — <span class="exp-detail">Exchange Program (Coursework: German A1)</span>
+  <div class="exp-left">
+    <span class="exp-inst">University of Vienna</span>
+    <span class="exp-detail">Exchange Program (Coursework: German A1)</span>
   </div>
-  <div class="exp-date">Jul 2025 – Aug 2025 · Vienna, Austria</div>
+  <div class="exp-right">
+    <span class="exp-date">Jul 2025 – Aug 2025</span>
+    <span class="exp-loc">Vienna, Austria</span>
+  </div>
 </div>
 
 <div class="exp-item">
-  <div class="exp-main">
-    <span class="exp-inst">National University of Singapore</span> — <span class="exp-detail">Exchange Program</span>
+  <div class="exp-left">
+    <span class="exp-inst">National University of Singapore</span>
+    <span class="exp-detail">Exchange Program</span>
   </div>
-  <div class="exp-date">Jan 2026 – May 2026 · Singapore</div>
+  <div class="exp-right">
+    <span class="exp-date">Jan 2026 – May 2026</span>
+    <span class="exp-loc">Singapore</span>
+  </div>
 </div>
 
 ### Activities
 
 <div class="exp-item">
-  <div class="exp-main">
-    <span class="exp-inst">Chinese Folk Art Society, HKUST</span> — <span class="exp-detail">Print Publicity</span>
+  <div class="exp-left">
+    <span class="exp-inst">Chinese Folk Art Society, HKUST</span>
+    <span class="exp-detail">Print Publicity</span>
   </div>
-  <div class="exp-date">Feb 2025 – Feb 2026 · HKSAR</div>
+  <div class="exp-right">
+    <span class="exp-date">Feb 2025 – Feb 2026</span>
+    <span class="exp-loc">Hong Kong, China</span>
+  </div>
 </div>
 
 <div class="exp-item">
-  <div class="exp-main">
-    <span class="exp-inst">COMP&CPEG PMP Program, HKUST</span> — <span class="exp-detail">Mentor</span>
+  <div class="exp-left">
+    <span class="exp-inst">COMP&CPEG PMP Program, HKUST</span>
+    <span class="exp-detail">Mentor</span>
   </div>
-  <div class="exp-date">Sep 2025 – Present · HKSAR</div>
+  <div class="exp-right">
+    <span class="exp-date">Sep 2025 – Present</span>
+    <span class="exp-loc">Hong Kong, China</span>
+  </div>
 </div>
-
 <h2 id="contact" class="section-title">Contact</h2>
 
 Feel free to reach out via [email](mailto:yxiaobs@connect.ust.hk).
