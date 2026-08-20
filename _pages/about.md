@@ -16,19 +16,17 @@ redirect_from:
   margin-bottom: 16px;
 }
 .exp-item {
-  display: list-item;
-  list-style-type: disc;
-  margin-left: 20px;
+  position: relative;
+  padding-right: 160px;
+  margin-bottom: 20px;
   padding-left: 4px;
-  margin-bottom: 16px;
 }
-.exp-left {
-  flex: 1;
-  min-width: 260px;
-}
-.exp-right {
-  text-align: right;
-  margin-left: 16px;
+.exp-item::before {
+  content: "•";
+  position: absolute;
+  left: -14px;
+  top: 2px;
+  color: #3b4c6b;
 }
 .exp-inst {
   font-weight: 700;
@@ -37,7 +35,13 @@ redirect_from:
 .exp-detail {
   color: #555;
   display: block;
-  margin-top: 2px;
+  margin-top: 1px;
+}
+.exp-right {
+  position: absolute;
+  top: 0;
+  right: 0;
+  text-align: right;
 }
 .exp-date {
   color: #888;
