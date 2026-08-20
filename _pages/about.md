@@ -16,11 +16,11 @@ redirect_from:
   margin-bottom: 16px;
 }
 .exp-item {
-  display: flex;
-  justify-content: space-between;
-  align-items: flex-start;
+  display: list-item;
+  list-style-type: disc;
+  margin-left: 20px;
+  padding-left: 4px;
   margin-bottom: 16px;
-  flex-wrap: wrap;
 }
 .exp-left {
   flex: 1;
@@ -51,12 +51,10 @@ I am an undergraduate student at [The Hong Kong University of Science and Techno
 
 <h2 id="publications" class="section-title">Publications</h2>
 
-<div style="margin-bottom: 20px;">
-  <span style="color: #3b5bdb; font-weight: 700;">GeoBrowse: A Geolocation Benchmark for Agentic Tool Use with Expert-Annotated Reasoning Traces.</span>
-  <span style="color: #3b5bdb; font-weight: 600;"> ECCV 2026</span>
+- <a href="https://arxiv.org/abs/2604.04017" style="color:#3b4c6b; font-weight:700; text-decoration:none;">GeoBrowse: A Geolocation Benchmark for Agentic Tool Use with Expert-Annotated Reasoning Traces.</a> <span style="color:#3b4c6b; font-weight:600;">ECCV 2026</span>
   <br>
-  Xinyu Geng\*, <strong>Yanjing Xiao\*</strong>, Yuyang Zhang\*, Hanwen Wang, Xinyan Liu, Rui Min, Tianqing Fang, Yi R. Fung
-</div>
+  Xinyu Geng\*, **Yanjing Xiao\***, Yuyang Zhang, Hanwen Wang, Xinyan Liu, Rui Min, Tianqing Fang, Yi R. Fung<sup>†</sup>
+  <br>
 
 <h2 id="teaching" class="section-title">Teaching</h2>
 
