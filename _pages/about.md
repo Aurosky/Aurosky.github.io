@@ -45,13 +45,6 @@ redirect_from:
   white-space: nowrap;
   display: block;
 }
-.exp-loc {
-  color: #aaa;
-  font-size: 0.85em;
-  white-space: nowrap;
-  display: block;
-  margin-top: 2px;
-}
 </style>
 
 I am an undergraduate student at [The Hong Kong University of Science and Technology](https://www.hkust.edu.hk/), Class of 2027. I am fortunate to be advised by [Prof. Yi R. Fung](https://mayrfung.github.io/), and mentored by her PhD student [Xinyu Geng](https://ornamentt.github.io/), working on problems at the intersection of large language model agents, tool use, and evaluation.
@@ -87,7 +80,6 @@ I am an undergraduate student at [The Hong Kong University of Science and Techno
   </div>
   <div class="exp-right">
     <span class="exp-date">Class of 2027</span>
-    <span class="exp-loc">Hong Kong, China</span>
   </div>
 </div>
 
@@ -98,7 +90,6 @@ I am an undergraduate student at [The Hong Kong University of Science and Techno
   </div>
   <div class="exp-right">
     <span class="exp-date">Jul 2025 – Aug 2025</span>
-    <span class="exp-loc">Vienna, Austria</span>
   </div>
 </div>
 
@@ -109,7 +100,6 @@ I am an undergraduate student at [The Hong Kong University of Science and Techno
   </div>
   <div class="exp-right">
     <span class="exp-date">Jan 2026 – May 2026</span>
-    <span class="exp-loc">Singapore</span>
   </div>
 </div>
 
@@ -122,7 +112,6 @@ I am an undergraduate student at [The Hong Kong University of Science and Techno
   </div>
   <div class="exp-right">
     <span class="exp-date">Feb 2025 – Feb 2026</span>
-    <span class="exp-loc">Hong Kong, China</span>
   </div>
 </div>
 
@@ -133,7 +122,6 @@ I am an undergraduate student at [The Hong Kong University of Science and Techno
   </div>
   <div class="exp-right">
     <span class="exp-date">Sep 2025 – Present</span>
-    <span class="exp-loc">Hong Kong, China</span>
   </div>
 </div>
 <h2 id="contact" class="section-title">Contact</h2>
