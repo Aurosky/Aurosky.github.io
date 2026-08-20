@@ -7,31 +7,16 @@ redirect_from:
   - /about.html
 ---
 
-I am an undergraduate student at the Hong Kong University of Science and Technology (HKUST), Class of 2027. I am fortunate to be advised by [Prof. Yi R. Fung](https://mayrfung.github.io/), and mentored by her PhD student [Xinyu Geng](https://ornamentt.github.io/), working on problems at the intersection of large language model agents, tool use, and evaluation.
-
-Education
-======
-- **The Hong Kong University of Science and Technology**, Hong Kong
-  B.Eng. in Computer Science (COSC) & Electronic Engineering (ELEC), Double Major
-  Class of 2027
-
-- **University of Vienna**, Austria<br>
-  Exchange Program<br>
-  Jul. 2025 - Aug. 2025<br>
-  Coursework: German A1<br>
-
-- **National University of Singapore**, Singapore<br>
-  Exchange Program<br>
-  Jan. 2026 - May. 2026<br>
+I am an undergraduate student at [The Hong Kong University of Science and Technology](https://www.hkust.edu.hk/), Class of 2027. I am fortunate to be advised by [Prof. Yi R. Fung](https://mayrfung.github.io/), and mentored by her PhD student [Xinyu Geng](https://ornamentt.github.io/), working on problems at the intersection of large language model agents, tool use, and evaluation.
 
 Publications
 ======
-- **GeoBrowse: A Geolocation Benchmark for Agentic Tool Use with Expert-Annotated Reasoning Traces**<br>
-  Xinyu Geng\*, **Yanjing Xiao\***, Yuyang Zhang\*, Hanwen Wang, Xinyan Liu, Rui Min, Tianqing Fang, Yi R. Fung<br>
-  *ECCV 2026* &nbsp;·&nbsp; arXiv:2604.04017 &nbsp;[[paper]](https://arxiv.org/abs/2604.04017)<br>
-  <small>\* Equal contribution</small>
-
-  We introduce GeoBrowse, a geolocation benchmark combining visual reasoning with knowledge-intensive multi-hop queries, along with GATE, an agentic workflow with think-with-image and knowledge-intensive tools, and expert-annotated stepwise reasoning traces.
+<div style="margin-bottom: 20px;">
+  <a href="https://arxiv.org/abs/2604.04017" style="color: #3b5bdb; font-weight: 700; font-size: 1.05em; text-decoration: none;">GeoBrowse: A Geolocation Benchmark for Agentic Tool Use with Expert-Annotated Reasoning Traces.</a>
+  <span style="color: #3b5bdb; font-weight: 600;"> ECCV 2026</span>
+  <br>
+  Xinyu Geng\*, <strong>Yanjing Xiao\*</strong>, Yuyang Zhang\*, Hanwen Wang, Xinyan Liu, Rui Min, Tianqing Fang, Yi R. Fung
+</div>
 
 Teaching
 ======
@@ -43,16 +28,19 @@ Awards
 - University's Scholarship Scheme for Continuing Undergraduate Students
 - Shanghai Commercial Bank Scholarship
 
-Extracurricular Activities
-======
-- **Chinese Folk Art Society - HKUST**, Hong Kong<br>
-  Print Publicity<br>
-  Feb. 2025 - Feb. 2026
+<h2 style="border-left: 4px solid #3b4c6b; padding-left: 12px;">Experience</h2>
 
-- **COMP&CPEG PMP Program - HKUST**, Hong Kong<br>
-  Mentor<br>
-  Sep. 2025 - Present
+### Education
+
+- *The Hong Kong University of Science and Technology*, B.Eng. in Computer Science (COSC) & Electronic Engineering (ELEC), Double Major, Class of 2027, Hong Kong, China.
+- *University of Vienna*, Exchange Program, Jul 2025 - Aug 2025, Vienna, Austria. (Coursework: German A1)
+- *National University of Singapore*, Exchange Program, Jan 2026 - May 2026, Singapore.
+
+### Activities
+
+- *Chinese Folk Art Society, HKUST*, Print Publicity, Feb 2025 - Feb 2026, Hong Kong, China.
+- *COMP&CPEG PMP Program, HKUST*, Mentor, Sep 2025 - Present, Hong Kong, China.
 
 Contact
 ======
-Feel free to reach out via [email](yxiaobs@connect.ust.hk), [Wechat](Aurosky)or find me on [GitHub](https://github.com/Aurosky).
+Feel free to reach out via [email](yxiaobs@connect.ust.hk).
