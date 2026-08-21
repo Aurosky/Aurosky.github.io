@@ -57,7 +57,7 @@ I am an undergraduate student at [The Hong Kong University of Science and Techno
 
 - <a href="https://arxiv.org/abs/2604.04017" style="color:#3b4c6b; font-weight:700; text-decoration:none;">GeoBrowse: A Geolocation Benchmark for Agentic Tool Use with Expert-Annotated Reasoning Traces.</a> <span style="color:#3b4c6b; font-weight:600;">ECCV 2026</span>
   <br>
-  Xinyu Geng\*, **Yanjing Xiao\***, Yuyang Zhang, Hanwen Wang, Xinyan Liu, Rui Min, Tianqing Fang, Yi R. Fung<sup>†</sup>
+  Xinyu Geng\*, **Yanjing Xiao\***, Yuyang Zhang\*, Hanwen Wang, Xinyan Liu, Rui Min, Tianqing Fang, Yi R. Fung<sup>†</sup>
   <br>
 
 <h2 id="teaching" class="section-title">Teaching</h2>
