@@ -62,7 +62,7 @@ I am an undergraduate student at [The Hong Kong University of Science and Techno
   <a href="https://github.com/ornamentt/GeoBrowse" style="color:#3b4c6b;">Code</a>
   <br>
 
-- <a href="https://arxiv.org/abs/2607.07820" style="color:#3b4c6b; font-weight:700; text-decoration:none;">DeepSearch-World: Self-Distillation for Deep Search Agents in a Verifiable Environment.</a> <span style="color:#3b4c6b; font-weight:600;">arXiv 2026</span>
+- <a href="https://arxiv.org/abs/2607.07820" style="color:#3b4c6b; font-weight:700; text-decoration:none;">DeepSearch-World: Self-Distillation for Deep Search Agents in a Verifiable Environment.</a> <span style="color:#3b4c6b; font-weight:600;">EMNLP 2026</span>
   <br>
   Xinyu Geng\*, Xuanhua He\*, Sixiang Chen\*, **Yanjing Xiao**, Fan Zhang, Shijue Huang, Haitao Mi, Zhenwen Liang<sup>†</sup>, Tianqing Fang<sup>†</sup>, Yi R. Fung<sup>†</sup>
   <br>
