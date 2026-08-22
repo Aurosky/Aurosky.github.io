@@ -55,10 +55,22 @@ I am an undergraduate student at [The Hong Kong University of Science and Techno
 
 <h2 id="publications" class="section-title">Publications</h2>
 
-- <a href="https://arxiv.org/abs/2604.04017" style="color:#3b4c6b; font-weight:700; text-decoration:none;">GeoBrowse: A Geolocation Benchmark for Agentic Tool Use with Expert-Annotated Reasoning Traces.</a> <span style="color:#3b4c6b; font-weight:600;">ECCV 2026</span>
+- <a href="https://arxiv.org/abs/2604.04017" style="color:#3b4c6b; font-weight:700; text-decoration:none;">GeoBrowse: A Geolocation Benchmark for Agentic Tool Use with Expert-Annotated Reasoning Traces.</a> <span style="color:#3b4c6b; font-weight:600;">ECCV 2026 Poster</span>
   <br>
   Xinyu Geng\*, **Yanjing Xiao\***, Yuyang Zhang\*, Hanwen Wang, Xinyan Liu, Rui Min, Tianqing Fang, Yi R. Fung<sup>†</sup>
   <br>
+  <a href="https://github.com/ornamentt/GeoBrowse" style="color:#3b4c6b;">Code</a>
+  <br>
+  <small style="color:#888;">\* Equal contribution &nbsp;&nbsp; † Corresponding author</small>
+
+- <a href="https://arxiv.org/abs/2607.07820" style="color:#3b4c6b; font-weight:700; text-decoration:none;">DeepSearch-World: Self-Distillation for Deep Search Agents in a Verifiable Environment.</a> <span style="color:#3b4c6b; font-weight:600;">arXiv 2026</span>
+  <br>
+  Xinyu Geng\*, Xuanhua He\*, Sixiang Chen\*, **Yanjing Xiao**, Fan Zhang, Shijue Huang, Haitao Mi, Zhenwen Liang<sup>†</sup>, Tianqing Fang<sup>†</sup>, Yi R. Fung<sup>†</sup>
+  <br>
+  <a href="https://huggingface.co/Ornamentt/deepsearch-code/tree/main" style="color:#3b4c6b;">Code</a> &nbsp;|&nbsp; <a href="https://huggingface.co/datasets/Ornamentt/deepsearch-world-data" style="color:#3b4c6b;">Data</a> &nbsp;|&nbsp; <a href="https://huggingface.co/datasets/Ornamentt/DeepSearch-World-Env" style="color:#3b4c6b;">Env</a>
+  <br>
+  <small style="color:#888;">\* Equal contribution &nbsp;&nbsp; † Corresponding author</small>
+  
 
 <h2 id="teaching" class="section-title">Teaching</h2>
 
@@ -78,7 +90,7 @@ I am an undergraduate student at [The Hong Kong University of Science and Techno
 <div class="exp-item">
   <div class="exp-left">
     <span class="exp-inst">The Hong Kong University of Science and Technology</span>
-    <span class="exp-detail">B.Eng. in Computer Science (COSC) & Electronic Engineering (ELEC), Double Major</span>
+    <span class="exp-detail">B.Eng. in Computer Science (COSC) & Electronic Engineering (ELEC)</span>
   </div>
   <div class="exp-right">
     <span class="exp-date">Class of 2027</span>
